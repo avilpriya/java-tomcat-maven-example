@@ -8,3 +8,5 @@ new line adding with vscode
 editing directly in remote #2
 editing in local #2
 editing directly in remote #3
+apple
+tree
