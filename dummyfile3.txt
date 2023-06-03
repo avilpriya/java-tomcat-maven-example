@@ -6,3 +6,4 @@ newline after configuring username and email
 editing directly in remote
 new line adding with vscode
 editing directly in remote #2
+editing directly in remote #3
