@@ -1,12 +1,12 @@
 node {
     stage('Build') {
-        echo 'building pipeline'
+        echo 'building pipeline1'
     }
     stage ('test'){
-        echo 'testing new pipeline'
+        echo 'testing new pipeline1'
     }
     stage ('deploy'){
-        echo 'deploying new pipeline code'
+        echo 'deploying new pipeline1 code'
     }
 
 }
