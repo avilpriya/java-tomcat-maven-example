@@ -1,6 +1,12 @@
-dkmck
-kmfmekf
-kmfkmf
-newline
-newline after configuring username and email
-editing directly in remote
+node {
+    stage('Build') {
+        echo 'building pipeline'
+    }
+    stage ('test'){
+        echo 'testing new pipeline'
+    }
+    stage ('deploy'){
+        echo 'deploying new pipeline code'
+    }
+
+}
